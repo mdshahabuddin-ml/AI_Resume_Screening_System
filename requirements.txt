@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pdfplumber
+scikit-learn
+streamlit
+requests
+python-multipart
+python-docx
