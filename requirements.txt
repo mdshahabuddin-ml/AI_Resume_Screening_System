@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+email-validator
+pdfplumber
+scikit-learn
+streamlit
+requests
+python-multipart
+python-docx
+pypdf
+reportlab
