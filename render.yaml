@@ -22,4 +22,4 @@ services:
     startCommand: streamlit run frontend/app.py --server.address=0.0.0.0 --server.port=$PORT --server.headless=true --browser.gatherUsageStats=false
     envVars:
       - key: API_URL
-        value: https://ai-resume-backend.onrender.com
+        value: https://ai-resume-backend-gvfw.onrender.com
